@@ -1,0 +1,1 @@
+clang++ /Users/lukeguardino/Documents/Platformer/Platformer/Platformer.cpp /Users/lukeguardino/Documents/Platformer/Platformer/Collision.cpp  $(pkg-config --libs --cflags sfml-window sfml-graphics sfml-system) -std=c++11
